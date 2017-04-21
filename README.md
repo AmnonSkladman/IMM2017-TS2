@@ -1,3 +1,16 @@
+# Connecting the Kinect with Processing
+
+Different versions of Kinect work different with Processing, need to figure out the version of the Kinect you have, 
+and use the right version of Processing.
+
+Version of Kinect we used: Version 1, 1414
+
+This is the original kinect and works with the library documented on this page 
+http://shiffman.net/p5/kinect/ in the Processing 3.0 beta series.
+
+Version of Processing: Processing 3
+
+
 # CANKinectPhysics
 
 # Make sure to include the following libraries:
